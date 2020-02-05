@@ -1,0 +1,44 @@
+.botones {
+  margin: 5px;
+}
+
+header {
+  height: 200px;
+  width: 100%;
+  background-image: url(/assets/img/image-banner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.foto-perfil {
+  height: 90px;
+  border-radius: 200px;
+}
+
+.gigeo-logo {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+}
+
+.art-superior {
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+}
+
+.nombre-canal {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.numero-seguidores {
+  font-size: 15px;
+}
+
+.botones {
+  margin: 5px;
+}
+
+/*# sourceMappingURL=style.css.map */
