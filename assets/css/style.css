@@ -43,4 +43,32 @@ h6 {
   margin: 5px;
 }
 
+.imagen-uno {
+  height: 150px;
+}
+
+.titulo-videos {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.descripcion-videos {
+  font-size: 15px;
+}
+
+.bloque-foto {
+  width: 180px;
+}
+
+#contenedor-fotos {
+  display: flex;
+  justify-content: space-between;
+}
+
+h1 {
+  font-weight: 600;
+  margin-bottom: 15px;
+  font-family: "Poppins", sans-serif;
+}
+
 /*# sourceMappingURL=style.css.map */
