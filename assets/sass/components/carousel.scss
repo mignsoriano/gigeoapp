@@ -1,28 +1,31 @@
 .imagen-uno{
     height: 150px;
+    padding: 5px;
 }
 
 .titulo-videos{
     font-size: 20px;
     font-weight: 600;
+    
 }
 
 .descripcion-videos{
     font-size: 15px;
 }
 
-.bloque-foto{
-    width: 180px;
-    
-}
+
 
 #contenedor-fotos{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 h1{
     font-weight: 600;
     margin-bottom: 15px;
     font-family: 'Poppins', sans-serif;
+}
+
+.bloque-foto{
+    margin: 0px;
 }

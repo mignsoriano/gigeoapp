@@ -16,6 +16,10 @@ header {
   border-radius: 200px;
 }
 
+.seccion-seguidores {
+  display: inline-block;
+}
+
 .gigeo-logo {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
@@ -39,12 +43,17 @@ h6 {
   font-family: "Poppins", sans-serif;
 }
 
+.iconos :hover {
+  color: black;
+}
+
 .botones {
   margin: 5px;
 }
 
 .imagen-uno {
   height: 150px;
+  padding: 5px;
 }
 
 .titulo-videos {
@@ -56,19 +65,19 @@ h6 {
   font-size: 15px;
 }
 
-.bloque-foto {
-  width: 180px;
-}
-
 #contenedor-fotos {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 h1 {
   font-weight: 600;
   margin-bottom: 15px;
   font-family: "Poppins", sans-serif;
+}
+
+.bloque-foto {
+  margin: 0px;
 }
 
 /*# sourceMappingURL=style.css.map */
