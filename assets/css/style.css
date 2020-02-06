@@ -16,31 +16,40 @@ header {
   border-radius: 200px;
 }
 
-.seccion-seguidores {
+.navbar-brand {
   display: inline-block;
 }
 
+.foto-seguidores {
+  display: flex;
+  justify-content: flex-start;
+}
+
+h5 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+h6 {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}
+
 .gigeo-logo {
+  position: relative;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   font-size: 40px;
 }
 
 .art-superior {
+  position: absolute;
   font-family: "Poppins", sans-serif;
   font-size: 15px;
-}
-
-h5 {
-  font-family: "Poppins", sans-serif;
-  font-weight: 600;
-  font-size: 30px;
-}
-
-h6 {
-  font-size: 20px;
-  font-weight: 400;
-  font-family: "Poppins", sans-serif;
+  bottom: 40px;
+  left: 120px;
 }
 
 .iconos :hover {

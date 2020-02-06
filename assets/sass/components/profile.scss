@@ -3,6 +3,13 @@ height: 90px;
 border-radius: 200px;
 }
 
-.seccion-seguidores{
+.navbar-brand{
     display: inline-block;
+}
+
+
+
+.foto-seguidores{
+    display: flex;
+    justify-content: flex-start;
 }
